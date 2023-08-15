@@ -1,8 +1,6 @@
 
 # Snooping Attacker
 
-Smart Token Analyzer and Vulnerability Detector
-
 ## How it works?
 
 - ```npm i``` to install the dependencies
